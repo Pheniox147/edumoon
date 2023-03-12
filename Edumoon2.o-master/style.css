@@ -668,7 +668,7 @@ background-repeat:repeat-x;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Animated Creative Footer</title>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <link rel="stylesheet" href="../src/components/style.css">
+    <link rel="stylesheet" href="../components/style.css">
 </head>
 <body>
     <footer class="footer-area">
@@ -883,7 +883,7 @@ background-repeat:repeat-x;
   <head>
     <meta charset="UTF-8">
     <!--<title> Responsive Sidebar Menu  | CodingLab </title>-->
-    <link rel="stylesheet" href="../src/components/style.css">
+    <link rel="stylesheet" href="../components/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -1333,7 +1333,7 @@ p.info {
         <meta name="keywords" content="jquery, css3, 3d, webkit, fallback, slider, css3, 3d transforms, slices, rotate, box, automatic" />
 		<meta name="author" content="Pedro Botelho for Codrops" />
 		
-        <link rel="stylesheet" type="text/css" href="../src/components/style.css" />
+        <link rel="stylesheet" type="text/css" href="../components/style.css" />
 		
 		<script type="text/javascript" src="modernizr.custom.46884.js"></script>
 	</head>
@@ -1550,7 +1550,7 @@ p.info {
     <!-- ALL CSS FILES -->
     <link href="css/materialize.css" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet" />
-    <link href="../src/components/style.css" rel="stylesheet" />
+    <link href="../components/style.css" rel="stylesheet" />
     <link href="css/style-mob.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/style-liberty.css">
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
